@@ -1,4 +1,4 @@
-Indian States Guessing Quiz game
+**Indian States Quiz Game**
 
 Technologies used : Python, csv
 
