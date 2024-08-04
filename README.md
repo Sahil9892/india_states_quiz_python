@@ -1,5 +1,7 @@
 **Indian States Quiz Game**
 
+Description : Guess the States of India with real time placement of guessed state on the map.
+
 Technologies used : Python, csv
 
 IDE : VsCode
